@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/gimsanghun/opt/anaconda3/envs/Data_analysis/bin/python",
+    "python.analysis.extraPaths": [
+        "./modules"
+    ]
+}
